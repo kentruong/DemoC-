@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\bin\Debug\netcoreapp3.1\CauTrucHamCoBan.exe
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\bin\Debug\netcoreapp3.1\CauTrucHamCoBan.deps.json
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\bin\Debug\netcoreapp3.1\CauTrucHamCoBan.runtimeconfig.json
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\bin\Debug\netcoreapp3.1\CauTrucHamCoBan.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\bin\Debug\netcoreapp3.1\CauTrucHamCoBan.dll
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\bin\Debug\netcoreapp3.1\CauTrucHamCoBan.pdb
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.AssemblyInfo.cs
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.dll
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.pdb
+C:\Users\admin\source\repos\CauTrucHamCoBan\CauTrucHamCoBan\obj\Debug\netcoreapp3.1\CauTrucHamCoBan.genruntimeconfig.cache

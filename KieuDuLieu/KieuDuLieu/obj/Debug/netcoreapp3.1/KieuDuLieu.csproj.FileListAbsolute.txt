@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\bin\Debug\netcoreapp3.1\KieuDuLieu.exe
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\bin\Debug\netcoreapp3.1\KieuDuLieu.deps.json
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\bin\Debug\netcoreapp3.1\KieuDuLieu.runtimeconfig.json
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\bin\Debug\netcoreapp3.1\KieuDuLieu.runtimeconfig.dev.json
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\bin\Debug\netcoreapp3.1\KieuDuLieu.dll
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\bin\Debug\netcoreapp3.1\KieuDuLieu.pdb
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.AssemblyInfo.cs
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.dll
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.pdb
+C:\Users\admin\source\repos\KieuDuLieu\KieuDuLieu\obj\Debug\netcoreapp3.1\KieuDuLieu.genruntimeconfig.cache

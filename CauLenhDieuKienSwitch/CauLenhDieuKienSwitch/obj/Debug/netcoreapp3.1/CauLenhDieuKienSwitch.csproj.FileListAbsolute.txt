@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\bin\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.exe
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\bin\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.deps.json
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\bin\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.runtimeconfig.json
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\bin\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\bin\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.dll
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\bin\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.pdb
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.AssemblyInfo.cs
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.dll
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.pdb
+C:\Users\admin\source\repos\CauLenhDieuKienSwitch\CauLenhDieuKienSwitch\obj\Debug\netcoreapp3.1\CauLenhDieuKienSwitch.genruntimeconfig.cache

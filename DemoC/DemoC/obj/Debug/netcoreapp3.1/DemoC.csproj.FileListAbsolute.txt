@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\DemoC\DemoC\bin\Debug\netcoreapp3.1\DemoC.exe
+C:\Users\admin\source\repos\DemoC\DemoC\bin\Debug\netcoreapp3.1\DemoC.deps.json
+C:\Users\admin\source\repos\DemoC\DemoC\bin\Debug\netcoreapp3.1\DemoC.runtimeconfig.json
+C:\Users\admin\source\repos\DemoC\DemoC\bin\Debug\netcoreapp3.1\DemoC.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DemoC\DemoC\bin\Debug\netcoreapp3.1\DemoC.dll
+C:\Users\admin\source\repos\DemoC\DemoC\bin\Debug\netcoreapp3.1\DemoC.pdb
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.AssemblyInfo.cs
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.dll
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.pdb
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.genruntimeconfig.cache
+C:\Users\admin\source\repos\DemoC\DemoC\obj\Debug\netcoreapp3.1\DemoC.csprojAssemblyReference.cache

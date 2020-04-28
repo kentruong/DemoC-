@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\bin\Debug\netcoreapp3.1\DemoCauLenhDieuKien.exe
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\bin\Debug\netcoreapp3.1\DemoCauLenhDieuKien.deps.json
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\bin\Debug\netcoreapp3.1\DemoCauLenhDieuKien.runtimeconfig.json
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\bin\Debug\netcoreapp3.1\DemoCauLenhDieuKien.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\bin\Debug\netcoreapp3.1\DemoCauLenhDieuKien.dll
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\bin\Debug\netcoreapp3.1\DemoCauLenhDieuKien.pdb
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.AssemblyInfo.cs
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.dll
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.pdb
+C:\Users\admin\source\repos\DemoCauLenhDieuKien\DemoCauLenhDieuKien\obj\Debug\netcoreapp3.1\DemoCauLenhDieuKien.genruntimeconfig.cache

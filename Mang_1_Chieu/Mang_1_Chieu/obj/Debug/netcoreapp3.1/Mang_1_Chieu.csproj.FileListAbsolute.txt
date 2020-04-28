@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\bin\Debug\netcoreapp3.1\Mang_1_Chieu.exe
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\bin\Debug\netcoreapp3.1\Mang_1_Chieu.deps.json
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\bin\Debug\netcoreapp3.1\Mang_1_Chieu.runtimeconfig.json
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\bin\Debug\netcoreapp3.1\Mang_1_Chieu.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\bin\Debug\netcoreapp3.1\Mang_1_Chieu.dll
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\bin\Debug\netcoreapp3.1\Mang_1_Chieu.pdb
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.AssemblyInfo.cs
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.dll
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.pdb
+C:\Users\admin\source\repos\Mang_1_Chieu\Mang_1_Chieu\obj\Debug\netcoreapp3.1\Mang_1_Chieu.genruntimeconfig.cache

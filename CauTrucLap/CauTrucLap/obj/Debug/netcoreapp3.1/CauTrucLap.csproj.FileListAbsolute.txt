@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\bin\Debug\netcoreapp3.1\CauTrucLap.exe
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\bin\Debug\netcoreapp3.1\CauTrucLap.deps.json
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\bin\Debug\netcoreapp3.1\CauTrucLap.runtimeconfig.json
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\bin\Debug\netcoreapp3.1\CauTrucLap.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\bin\Debug\netcoreapp3.1\CauTrucLap.dll
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\bin\Debug\netcoreapp3.1\CauTrucLap.pdb
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.AssemblyInfo.cs
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.dll
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.pdb
+C:\Users\admin\source\repos\CauTrucLap\CauTrucLap\obj\Debug\netcoreapp3.1\CauTrucLap.genruntimeconfig.cache

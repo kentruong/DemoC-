@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\bin\Debug\netcoreapp3.1\VongLapForEach.exe
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\bin\Debug\netcoreapp3.1\VongLapForEach.deps.json
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\bin\Debug\netcoreapp3.1\VongLapForEach.runtimeconfig.json
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\bin\Debug\netcoreapp3.1\VongLapForEach.runtimeconfig.dev.json
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\bin\Debug\netcoreapp3.1\VongLapForEach.dll
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\bin\Debug\netcoreapp3.1\VongLapForEach.pdb
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.AssemblyInfo.cs
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.dll
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.pdb
+C:\Users\admin\source\repos\VongLapForEach\VongLapForEach\obj\Debug\netcoreapp3.1\VongLapForEach.genruntimeconfig.cache

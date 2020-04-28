@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\bin\Debug\netcoreapp3.1\TuKhoaRefVaOut.exe
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\bin\Debug\netcoreapp3.1\TuKhoaRefVaOut.deps.json
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\bin\Debug\netcoreapp3.1\TuKhoaRefVaOut.runtimeconfig.json
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\bin\Debug\netcoreapp3.1\TuKhoaRefVaOut.runtimeconfig.dev.json
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\bin\Debug\netcoreapp3.1\TuKhoaRefVaOut.dll
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\bin\Debug\netcoreapp3.1\TuKhoaRefVaOut.pdb
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.AssemblyInfo.cs
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.dll
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.pdb
+C:\Users\admin\source\repos\TuKhoaRefVaOut\TuKhoaRefVaOut\obj\Debug\netcoreapp3.1\TuKhoaRefVaOut.genruntimeconfig.cache
