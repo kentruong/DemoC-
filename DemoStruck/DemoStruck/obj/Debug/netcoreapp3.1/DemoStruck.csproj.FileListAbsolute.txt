@@ -1,0 +1,13 @@
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.csprojAssemblyReference.cache
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.csproj.CoreCompileInputs.cache
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.AssemblyInfoInputs.cache
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.AssemblyInfo.cs
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\bin\Debug\netcoreapp3.1\DemoStruck.exe
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\bin\Debug\netcoreapp3.1\DemoStruck.deps.json
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\bin\Debug\netcoreapp3.1\DemoStruck.runtimeconfig.json
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\bin\Debug\netcoreapp3.1\DemoStruck.runtimeconfig.dev.json
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\bin\Debug\netcoreapp3.1\DemoStruck.dll
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\bin\Debug\netcoreapp3.1\DemoStruck.pdb
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.dll
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.pdb
+C:\Users\Dell T3610\source\repos\DemoStruck\DemoStruck\obj\Debug\netcoreapp3.1\DemoStruck.genruntimeconfig.cache

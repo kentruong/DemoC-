@@ -1,0 +1,13 @@
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\bin\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.exe
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\bin\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.deps.json
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\bin\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.runtimeconfig.json
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\bin\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.runtimeconfig.dev.json
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\bin\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.dll
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\bin\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.pdb
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.csprojAssemblyReference.cache
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.csproj.CoreCompileInputs.cache
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.AssemblyInfoInputs.cache
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.AssemblyInfo.cs
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.dll
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.pdb
+C:\Users\Dell T3610\source\repos\Cau_Truc_Lenh_Co_Ban\Cau_Truc_Lenh_Co_Ban\obj\Debug\netcoreapp3.1\Cau_Truc_Lenh_Co_Ban.genruntimeconfig.cache
